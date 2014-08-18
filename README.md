@@ -1,7 +1,7 @@
 tinymoon
 ========
 
-Tiny 5x7 font for Nokia 3310/5110 LCD
+Tiny 7x8 font for Nokia 3310/5110 LCD
 
 Usage
 -----
