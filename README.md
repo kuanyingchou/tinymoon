@@ -3,7 +3,7 @@ Tinymoon
 
 Tiny monospaced font for tiny screens.
 
-![Screenshot](https://dl.dropboxusercontent.com/u/31448207/imgs/Screen%20Shot%202014-08-20%20at%2011.51.40%20AM.png)
+![Screenshot](https://dl.dropboxusercontent.com/u/31448207/imgs/Photo%202014-8-21%20%E4%B8%8A%E5%8D%881%2042%2006.jpg)
 
 Usage
 -----
