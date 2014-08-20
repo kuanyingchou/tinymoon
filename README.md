@@ -8,4 +8,4 @@ Tiny font designed for tiny screens.
 Usage
 -----
 
-Import def.txt into [BITFONTMAKER2](http://www.pentacom.jp/pentacom/bitfontmaker2/) and click "BUILD FONT".
+Import content of definition files into [BITFONTMAKER2](http://www.pentacom.jp/pentacom/bitfontmaker2/) and click "BUILD FONT".
