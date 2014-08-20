@@ -5,7 +5,9 @@ Tiny monospaced font for tiny screens.
 
 ![Screenshot](https://dl.dropboxusercontent.com/u/31448207/imgs/5110.jpg)
 
+(Tinymoon5x7 on Nokia 5110/3310 LCD)
+
 Usage
 -----
 
-Import content of definition files into [BITFONTMAKER2](http://www.pentacom.jp/pentacom/bitfontmaker2/) and click "BUILD FONT".
+Import content of the .def file into [BITFONTMAKER2](http://www.pentacom.jp/pentacom/bitfontmaker2/) and click "BUILD FONT".
