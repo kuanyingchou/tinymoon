@@ -7,9 +7,6 @@ Tiny monospaced font for tiny screens.
 
 (Tinymoon5x7 on Nokia 5110/3310 LCD)
 
-![Terminal](https://dl.dropboxusercontent.com/u/31448207/imgs/tinymoon-terminal.png)
-
-(Tinymoon5x9 on Mac's Terminal)
 
 Usage
 -----
