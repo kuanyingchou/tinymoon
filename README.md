@@ -10,9 +10,9 @@ Tiny monospaced font for tiny screens.
 Download
 --------
 
-![5x7](https://dl.dropboxusercontent.com/u/31448207/fonts/Tinymoon5x7.ttf)
+- [5x7](https://dl.dropboxusercontent.com/u/31448207/fonts/Tinymoon5x7.ttf)
 
-![5x9](https://dl.dropboxusercontent.com/u/31448207/fonts/Tinymoon5x9.ttf)
+- [5x9](https://dl.dropboxusercontent.com/u/31448207/fonts/Tinymoon5x9.ttf)
 
 Build
 -----
